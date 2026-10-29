@@ -1,0 +1,4 @@
+@EndUserText.label: 'abapGit Test Service'
+define service ZAGTEST_SERVICE {
+  expose ZI_AGTEST_COUNTRY as Countries;
+}
